@@ -1,3 +1,3 @@
 # Education_5-10
-Work at school /n
+Work at school</b>
  Bruh school work
