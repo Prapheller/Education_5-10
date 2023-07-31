@@ -1,0 +1,43 @@
+body {
+    color: blue;
+}
+
+div {
+    background-color: blue;
+    color: #ffffff;
+    font-size: 5em;
+    padding-left: 5%;
+    padding-top: 0.1vh;
+    padding-bottom: 0.1vh;
+}
+
+@media screen and (max-width: 999px) and (min-width: 780px){
+    body {
+        color: red;
+    }
+    
+    div {
+        background-color: magenta;
+        font-size: 16px;
+        color: #ffffff;
+        padding-left: 5%;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+    }
+}
+
+@media screen and (max-width: 699px) {
+    body {
+        color: blue;
+    }
+    
+    div {
+        background-color: green;
+        font-size: 16px;
+        color: #ffffff;
+        padding-left: 5%;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+    }
+}
+
